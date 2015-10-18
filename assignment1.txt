@@ -1,0 +1,17 @@
+Tyler Potochnik
+
+Advantages and Disadvantages:
+	The advantages to the array implementation is that printing and searching are simplier
+	functions, but the disadvantage to the array implementation is the delete function
+	because not only do you have to search through the array you have to then move
+	all of the following elements one position down and another disadvantage is
+	that an array must have a set size which could at one point be overflowed.
+	The advantages to the linked list implmentation is the deleting elements. 
+	The disadvantage to the inked list implementation is the searching takes slightly
+	more time than that of the array because the memory is not conitguous. 
+
+Storing in Alphabetical order:
+	Advantages would be the seraching function could be made into a binary search
+	to speed up the searching function to delete or find an element. 
+	Disadvantages would be adding elements to the implementation because a sort function
+	would always need to be preformed after the insertion of another element. 

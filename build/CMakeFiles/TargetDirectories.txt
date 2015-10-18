@@ -1,0 +1,1 @@
+/home/tpot/Desktop/C++/forFun/pracLink/build/CMakeFiles/link.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -std=c++11    CMakeFiles/link.dir/main.cpp.o CMakeFiles/link.dir/list.cpp.o CMakeFiles/link.dir/array.cpp.o  -o link -rdynamic 

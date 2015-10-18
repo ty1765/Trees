@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tpot/Desktop/C++/forFun/pracLink/array.hpp
+
+/home/tpot/Desktop/C++/forFun/pracLink/list.hpp
+
+/home/tpot/Desktop/C++/forFun/pracLink/main.cpp
+iostream
+-
+list.hpp
+/home/tpot/Desktop/C++/forFun/pracLink/list.hpp
+array.hpp
+/home/tpot/Desktop/C++/forFun/pracLink/array.hpp
+
